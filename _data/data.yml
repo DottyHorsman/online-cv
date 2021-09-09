@@ -12,20 +12,20 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dottyhorsman@yahoo.com / cehorsman@bsu.edu
+    email: dottyhorsman@yahoo.com cehorsman@bsu.edu
     phone: (317) 979-6353
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com    #do not add http://           #none
     linkedin: #none
     xing: #alandoe
     github: DottyHorsman
-    telegram: Dot # add your nickname without '@' sign
+    telegram: # add your nickname without '@' sign              #none
     gitlab: #none
     bitbucket: #none
     twitter: #none
     stack-overflow: # Number/Username, e.g. 123456/alandoe      #none
     codewars: #none
-    goodreads: # Number-Username, e.g. 123456-alandoe       #none
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: # Number-Username, e.g. 123456-alandoe           #none
+    pdf: #http://www.africau.edu/images/default/sample.pdf      #none
 
     languages:
       - idiom: English
@@ -33,9 +33,6 @@ sidebar:
 
       - idiom: American Sign Language
         level: Student
-
-      - idiom: #none
-        level: #none
 
     interests:
       - item: huh
@@ -57,9 +54,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Bachelor of Science in Computer Science, Minor in American Sign Language 
+    - degree: Bachelor of Science in Computer Science
       university: Ball State University
-      time: 2018 - 2022
+      time: 2018 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,6 +65,29 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Minor in American Sign Language 
+      university: Ball State University
+      time: 2018 - Present
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Core 40
+      university: Noblesville High School
+      time: 2014 - 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -95,17 +115,33 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Crew Member
+      time: 2018 and 2019 
+      company: GQT Hamilton 16 IMAX + GDX
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Responsible for the sale of tickets and operating cash registers
+          - Engaged with customers, filling food orders
+          - Made sure that supplies were available and restocked items in a timely fashion
+          - Maintained a clean lobby and cleaned theatres
+    - role: Power Washing & Lawn Care
+      time: Summer of 2017
+      company: Self-Employed
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Established and managed a small business 
+          - Created marketing and advertising flyers
+          - Provided power washing and lawn maintenance service
+
+
 projects:
     title: Projects
     intro: >
@@ -138,23 +174,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: Godot
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
