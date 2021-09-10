@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dotty Horsman
@@ -60,7 +60,7 @@ education:
       time: 2014 - 2018
       details: |
 
-experiences:
+work history:
     - role: Crew Member
       time: 2018 and 2019 
       company: GQT Hamilton 16 IMAX + GDX
